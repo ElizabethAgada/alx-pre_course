@@ -1,1 +1,1 @@
-My first readme
+I am super excited i made it this far
